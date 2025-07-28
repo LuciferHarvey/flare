@@ -1,5 +1,5 @@
 ==================================================================================================
-
+<-->
 DESCRIPTION:
 
 FLARE is a free landing page and website template designed for digital agency or startup. With 
